@@ -10,7 +10,7 @@ The HTML code did not follow semantic HMTL rules, everything was labeled as div 
 
 This project helped me as a developer understand the importance of semantic HTML structure not only for accessibility and search engine performance but also as a user reading the code - it's much easier to follow along and understand what I am editing.
 
-You can view the [live page here].
+You can view the [live page here](https://faustcelaj.github.io/Horiseon-Accessibility-Improvements).
 
 ## Changes
 
